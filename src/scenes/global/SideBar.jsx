@@ -237,7 +237,7 @@ const Bar = () => {
 
             <Item
               title="MyGitHub"
-              to="https://github.com/cibo-24"
+              to="https://github.com/kenancibooglu"
               icon={<GitHubIcon />}
               selected={selected}
               setSelected={setSelected}
