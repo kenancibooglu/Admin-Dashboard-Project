@@ -15,12 +15,14 @@ Admin Dashboard içerisinde;
  - Form Sayfası
  - Takvim Sayfası
 
+https://admin-dashboard-project-three.vercel.app/
+
  <img src="./project-media/light.png">
  <img src="./project-media/dark.png">
  <img src="./project-media/manager.jpeg">
  <img src="./project-media/pie.png">
-  <img src="./project-media/geo.png">
-   <img src="./project-media/calendar.png">
+ <img src="./project-media/geo.png">
+ <img src="./project-media/calendar.png">
 
 
 
